@@ -72,7 +72,7 @@ if __name__ == '__main__':	//python
 ###Link to the URL in this repository
 |Syntax|Effect|
 |----|----
-|`[len](/len)`|[len]length.py)
+|`[len](/len)`|[len](length.py)
 
 
 
